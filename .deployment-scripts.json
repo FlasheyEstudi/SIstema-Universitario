@@ -1,0 +1,11 @@
+{
+    "name": "unisystem",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview",
+        "deploy:vercel": "npm run build && vercel --prod",
+        "deploy:netlify": "npm run build && netlify deploy --prod --dir=dist"
+    }
+}

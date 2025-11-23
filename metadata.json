@@ -1,0 +1,5 @@
+{
+  "name": "UniSystem React",
+  "description": "A comprehensive multi-campus university management system for Admins, Professors, and Students with specific workflows for enrollment, grading, and scheduling.",
+  "requestFramePermissions": []
+}
